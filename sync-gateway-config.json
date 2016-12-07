@@ -1,0 +1,12 @@
+{
+  "log" : ["*"],
+  "facebook" : {"register":true},
+  "databases": {
+    "goals":{
+      "server": "walrus:",
+      "users": {
+        "GUEST" : {"disabled" : true}
+      },
+    }
+  }
+}
